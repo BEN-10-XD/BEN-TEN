@@ -15,7 +15,7 @@ pip install bs4
 
 pkg install git
 
-rm -rf FILE-CLONE
+rm -rf BEN-TEN
 
 git clone https://github.com/BEN-10-XD/BEN-TEN.git
 
