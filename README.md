@@ -1,4 +1,4 @@
-#BEN-TEN 
+#BEN-TEN
 ```python
 
 pkg update
@@ -17,13 +17,13 @@ pkg install git
 
 rm -rf FILE-CLONE
 
-git clone https://github.com/SHADIN-143/FILE-CLONE.git
+git clone https://github.com/BEN-10-XD/BEN-TEN.git
 
-cd FILE-CLONE
+cd BEN-TEN
 
 git pull
 
-python3 SHADIN.py
+python3 B4N-T3N.py
 ```
 Note: (This Tools Are Paid)
 
